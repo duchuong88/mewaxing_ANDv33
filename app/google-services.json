@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "621780246943",
+    "firebase_url": "https://me-waxing-default-rtdb.firebaseio.com",
+    "project_id": "me-waxing",
+    "storage_bucket": "me-waxing.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621780246943:android:339bb5682f430524761daa",
+        "android_client_info": {
+          "package_name": "thaonguyen.ezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWjSpkVYUpA2pQMS4rGKs07IehFIzE7yA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
